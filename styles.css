@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+*{
+	background-color:lightskyblue;
+}
+#form{
+	margin:30%;
+	align-items:center;
+}
+#btn{
+	border-radius:20px;
+	background-color:red;
+	color:white;
+	width:89px;
+	height:30px;
+}
